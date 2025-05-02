@@ -22,7 +22,7 @@
 
 static const char *BASE64_LUT = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
-int get_index(char c)
+static int get_index(char c)
 {
     return((int)(strchr(BASE64_LUT, c) - BASE64_LUT));
 }
