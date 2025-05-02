@@ -1,6 +1,5 @@
 # Base64 Encoding/Decoding Library
-
-This library provides simple functions to encode binary data into Base64 format and decode Base64-encoded data back into binary. It is useful for encoding binary streams for transmission over text-based protocols or storage in text files.
+This library is built completely for training purposes. The library provides simple functions to encode binary data into Base64 format and decode Base64-encoded data back into binary. It is useful for encoding binary streams for transmission over text-based protocols or storage in text files.
 
 ## Functions
 
